@@ -24,9 +24,11 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 
    The post can also be found on [Medium](https://medium.com/inquisitive-nature/unlocking-the-secrets-of-calculate-a-deep-dive-into-advanced-data-analysis-in-power-bi-62ed1bb740e3)
    
-3) **Time Intelligence Functions:** Tune into the rhythm of data that swings with time. Learn to create calculated measures that leverage time elements in your data.
+2) **Time Intelligence Functions:** Tune into the rhythm of data that swings with time. Learn to create calculated measures that leverage time elements in your data.
 
-    Comming Soon...
+    📰 Blog Post: [Time Travel in Power BI: Mastering Time Intelligence Functions](https://ethanguyant.com/blog/2023-07-19-powerbi-time-intelligence/)
+
+   This post can also be found on [Medium](https://medium.com/inquisitive-nature/time-travel-in-power-bi-mastering-time-intelligence-functions-bccc2904a7fa)
   
 ## 🚀 Getting Started
 
