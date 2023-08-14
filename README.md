@@ -29,7 +29,11 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
     📰 Blog Post: [Time Travel in Power BI: Mastering Time Intelligence Functions](https://ethanguyant.com/blog/2023-07-19-powerbi-time-intelligence/)
 
    This post can also be found on [Medium](https://medium.com/inquisitive-nature/time-travel-in-power-bi-mastering-time-intelligence-functions-bccc2904a7fa)
-  
+   
+3) **Text Functions:** Unlock the power of DAX Text Function! Dive into techniques that help transform your textual data into actionable insights seamlessly.
+
+    📰 Blog Post: [Mastering DAX Text Expressions: Making Sense of Your Data One String at a Time](https://ethanguyant.com/blog/2023-08-14-text-functions/)
+   
 ## 🚀 Getting Started
 
 Ready to embark on this exciting journey? Follow these steps:
