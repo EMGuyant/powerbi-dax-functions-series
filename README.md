@@ -2,7 +2,7 @@
 
 🎉 Welcome to the Power BI DAX Function Series Repository! 🎉
 
-This dynamic repository is the perfect place to enhance your learning journey and serves and an interactive compliment to the blog posts on [EthanGuyant.com](https://ethanguyant.com) and [Inquisitive Nature on Medium](https://medium.com/inquisitive-nature). 
+This dynamic repository is the perfect place to enhance your learning journey and serves as an interactive compliment to the blog posts on [EthanGuyant.com](https://ethanguyant.com) and [Inquisitive Nature on Medium](https://medium.com/inquisitive-nature). 
 
 Take a dive into the world of DAX and disover the beauty of data manipulation and analysis. With a pre-loaded Power BI Report and an Excel workbook filled with sample data, you can explore, experiment, learn, and excel using various DAX functions in Power BI. Both beginners and experienced users can find something that caters to their curiosity and learning pace.
 
