@@ -11,26 +11,33 @@ Get hands-on with DAX Functions in Power BI, experiment and explore new DAX func
 ## 📂 What's Inside the Repository
 
 The repository includes:
-1) `power-bi-function-series.pbix`: This Power BI report comes pre-loaded with sample data and functions referenced in the blog posts, providing an engaging sandbox for exploration and experimentation.
-2) `sample-data.xlsx`: Get raw and real with the dataset. Create your own Power BI report from scratch, giving you the freedom to analyze and visualize data in your unique way.
+1) `power-bi-function-overview.pbix`: This Power BI report comes pre-loaded with sample data and provides and overview of the various types of DAX functions.
+2) `power-bi-function-series.pbix`: This Power BI report comes pre-loaded with sample data and functions referenced in the blog posts, providing an engaging sandbox for exploration and experimentation.
+3) `sample-data.xlsx`: Get raw and real with the dataset. Create your own Power BI report from scratch, giving you the freedom to analyze and visualize data in your unique way.
 
 ## 🎯 What You Will Learn
 
 I keep the Power BI Report updated with new topics and functions. Keep an eye out for fresh updates and keep the learning flame burning bright!
 
-1) **CALCULATE:** Unleash the power of one of the most potent functions in DAX. Master the CALCULATE function and create new measures and manipulate filters like a pro.
+1) **Overview:** A comprehensive guide to DAX functions from basic aggregations to advanced time intelligence. Explore this file and the related blog post to get a better understanding of the various types of DAX functions.
+
+   📰 Blog Post:
+
+   The post can also be found on [Medium]
+
+2) **CALCULATE:** Unleash the power of one of the most potent functions in DAX. Master the CALCULATE function and create new measures and manipulate filters like a pro.
 
    📰 Blog Post: [Unlocking the Secrets of CALCULATE: A Deep Dive into Advanced Data Analysis in Power BI](https://ethanguyant.com/blog/2023-07-08-powerbi-calculate/)
 
    The post can also be found on [Medium](https://medium.com/inquisitive-nature/unlocking-the-secrets-of-calculate-a-deep-dive-into-advanced-data-analysis-in-power-bi-62ed1bb740e3)
    
-2) **Time Intelligence Functions:** Tune into the rhythm of data that swings with time. Learn to create calculated measures that leverage time elements in your data.
+3) **Time Intelligence Functions:** Tune into the rhythm of data that swings with time. Learn to create calculated measures that leverage time elements in your data.
 
     📰 Blog Post: [Time Travel in Power BI: Mastering Time Intelligence Functions](https://ethanguyant.com/blog/2023-07-19-powerbi-time-intelligence/)
 
    This post can also be found on [Medium](https://medium.com/inquisitive-nature/time-travel-in-power-bi-mastering-time-intelligence-functions-bccc2904a7fa)
    
-3) **Text Functions:** Unlock the power of DAX Text Function! Dive into techniques that help transform your textual data into actionable insights seamlessly.
+4) **Text Functions:** Unlock the power of DAX Text Function! Dive into techniques that help transform your textual data into actionable insights seamlessly.
 
     📰 Blog Post: [Mastering DAX Text Expressions: Making Sense of Your Data One String at a Time](https://ethanguyant.com/blog/2023-08-14-text-functions/)
    
