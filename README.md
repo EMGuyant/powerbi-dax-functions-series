@@ -21,7 +21,7 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 
 1) **Overview:** A comprehensive guide to DAX functions from basic aggregations to advanced time intelligence. Explore this file and the related blog post to get a better understanding of the various types of DAX functions.
 
-   📰 Blog Post:
+   📰 Blog Post: [The DAX Function Universe: A Guide to Navigating the Data Analysis Tool box](https://ethanguyant.com/blog/2023-09-14-dax-function-toolkit/)
 
    The post can also be found on [Medium]
 
