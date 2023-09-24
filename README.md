@@ -23,7 +23,7 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 
    📰 Blog Post: [The DAX Function Universe: A Guide to Navigating the Data Analysis Tool box](https://ethanguyant.com/blog/2023-09-14-dax-function-toolkit/)
 
-   The post can also be found on [Medium]
+   The post can also be found on [Medium](https://medium.com/inquisitive-nature/the-dax-function-universe-a-guide-to-navigating-the-data-analysis-tool-box-cb0a23dcc9ed)
 
 2) **CALCULATE:** Unleash the power of one of the most potent functions in DAX. Master the CALCULATE function and create new measures and manipulate filters like a pro.
 
