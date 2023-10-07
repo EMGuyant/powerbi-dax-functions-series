@@ -13,7 +13,8 @@ Get hands-on with DAX Functions in Power BI, experiment and explore new DAX func
 The repository includes:
 1) `power-bi-function-overview.pbix`: This Power BI report comes pre-loaded with sample data and provides and overview of the various types of DAX functions.
 2) `power-bi-function-series.pbix`: This Power BI report comes pre-loaded with sample data and functions referenced in the blog posts, providing an engaging sandbox for exploration and experimentation.
-3) `sample-data.xlsx`: Get raw and real with the dataset. Create your own Power BI report from scratch, giving you the freedom to analyze and visualize data in your unique way.
+3) `power-bi-sample-data.pbix`: This is a blank Power BI report pre-loaded with sample data, allowing you to explore the data and follow along with the blog posts linked below.
+4) `sample-data.xlsx`: Get raw and real with the dataset. Create your own Power BI report from scratch, giving you the freedom to analyze and visualize data in your unique way.
 
 ## 🎯 What You Will Learn
 
