@@ -2,7 +2,7 @@
 
 🎉 Welcome to the Power BI DAX Function Series Repository! 🎉
 
-This dynamic repository is the perfect place to enhance your learning journey and serves as an interactive compliment to the blog posts on [EthanGuyant.com](https://ethanguyant.com) and [Inquisitive Nature on Medium](https://medium.com/inquisitive-nature). 
+This dynamic repository is the perfect place to enhance your learning journey and serves as an interactive compliment to the blog posts on [EthanGuyant.com](https://ethanguyant.com). 
 
 Take a dive into the world of DAX and disover the beauty of data manipulation and analysis. With a pre-loaded Power BI Report and an Excel workbook filled with sample data, you can explore, experiment, learn, and excel using various DAX functions in Power BI. Both beginners and experienced users can find something that caters to their curiosity and learning pace.
 
@@ -24,7 +24,7 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 
    📰 Blog Post: [The DAX Function Universe: A Guide to Navigating the Data Analysis Tool box](https://ethanguyant.com/blog/2023-09-14-dax-function-toolkit/)
 
-   The post can also be found on [Medium](https://medium.com/inquisitive-nature/the-dax-function-universe-a-guide-to-navigating-the-data-analysis-tool-box-cb0a23dcc9ed)
+   The post can also be found on [Medium](https://medium.com/microsoft-power-bi/the-dax-function-universe-a-guide-to-navigating-the-data-analysis-tool-box-cb0a23dcc9ed)
 
 2) **CALCULATE:** Unleash the power of one of the most potent functions in DAX. Master the CALCULATE function and create new measures and manipulate filters like a pro.
 
@@ -41,6 +41,8 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 4) **Text Functions:** Unlock the power of DAX Text Function! Dive into techniques that help transform your textual data into actionable insights seamlessly.
 
     📰 Blog Post: [Mastering DAX Text Expressions: Making Sense of Your Data One String at a Time](https://ethanguyant.com/blog/2023-08-14-text-functions/)
+
+   This post can also be found on [Medium](https://medium.com/microsoft-power-bi/mastering-dax-text-expressions-making-sense-of-your-data-one-string-at-a-time-da3e7f7075f2)
    
 ## 🚀 Getting Started
 
