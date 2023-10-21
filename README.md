@@ -28,21 +28,27 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 
 2) **CALCULATE:** Unleash the power of one of the most potent functions in DAX. Master the CALCULATE function and create new measures and manipulate filters like a pro.
 
-   📰 Blog Post: [Unlocking the Secrets of CALCULATE: A Deep Dive into Advanced Data Analysis in Power BI](https://ethanguyant.com/blog/2023-07-08-powerbi-calculate/)
+   📰 Blog Post: [Unlocking the Secrets of CALCULATE: A Deep Dive into Advanced Data Analysis in Power BI](http://ethanguyant.com/2023/07/08/unlocking-the-secrets-of-calculate-a-deep-dive-into-advanced-data-analysis-in-power-bi/)
 
    The post can also be found on [Medium](https://medium.com/inquisitive-nature/unlocking-the-secrets-of-calculate-a-deep-dive-into-advanced-data-analysis-in-power-bi-62ed1bb740e3)
    
 3) **Time Intelligence Functions:** Tune into the rhythm of data that swings with time. Learn to create calculated measures that leverage time elements in your data.
 
-    📰 Blog Post: [Time Travel in Power BI: Mastering Time Intelligence Functions](https://ethanguyant.com/blog/2023-07-19-powerbi-time-intelligence/)
+    📰 Blog Post: [Time Travel in Power BI: Mastering Time Intelligence Functions](http://ethanguyant.com/2023/07/19/time-travel-in-power-bi-mastering-time-intelligence-functions/)
 
    This post can also be found on [Medium](https://medium.com/inquisitive-nature/time-travel-in-power-bi-mastering-time-intelligence-functions-bccc2904a7fa)
    
 4) **Text Functions:** Unlock the power of DAX Text Function! Dive into techniques that help transform your textual data into actionable insights seamlessly.
 
-    📰 Blog Post: [Mastering DAX Text Expressions: Making Sense of Your Data One String at a Time](https://ethanguyant.com/blog/2023-08-14-text-functions/)
+    📰 Blog Post: [Mastering DAX Text Expressions: Making Sense of Your Data One String at a Time](http://ethanguyant.com/2023/08/14/mastering-dax-text-expressions-making-sense-of-your-data-one-string-at-a-time/)
 
    This post can also be found on [Medium](https://medium.com/microsoft-power-bi/mastering-dax-text-expressions-making-sense-of-your-data-one-string-at-a-time-da3e7f7075f2)
+
+5) **Date and Time Functions:** Dive into DAX's date and time functions for precise data analysis. From basics to advanced, unlock the power of temporal data with our comprehensive guide.
+
+    📰 Blog Post: [Temporal Triumphs with DAX Date and Time Functions](http://ethanguyant.com/2023/10/20/temporal-triumphs-with-dax-date-and-time-functions/)
+
+   This post can also be found on [Medium](https://medium.com/@emguyant/temporal-triumphs-with-dax-date-and-time-functions-2afbed418f23)
    
 ## 🚀 Getting Started
 
