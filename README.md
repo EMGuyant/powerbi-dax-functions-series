@@ -49,6 +49,12 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
     📰 Blog Post: [Temporal Triumphs with DAX Date and Time Functions](http://ethanguyant.com/2023/10/20/temporal-triumphs-with-dax-date-and-time-functions/)
 
    This post can also be found on [Medium](https://medium.com/@emguyant/temporal-triumphs-with-dax-date-and-time-functions-2afbed418f23)
+
+6) **ISINSCOPE Function:** Elevate Your Power BI Reports with Context-Aware Insights with the blog post below and follow along with the `power-bi-isinscope.pbix` file.
+
+    📰 Blog Post: [ISINSCOPE: The Key to Dynamic Data Drilldowns](https://ethanguyant.com/2023/11/03/isinscope-the-key-to-dynamic-data-drilldowns/)
+
+   This post can also be found on [Medium](https://medium.com/microsoft-power-bi/isinscope-the-key-to-dynamic-data-drilldowns-10007091e7ba)
    
 ## 🚀 Getting Started
 
