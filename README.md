@@ -55,6 +55,18 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
     📰 Blog Post: [ISINSCOPE: The Key to Dynamic Data Drilldowns](https://ethanguyant.com/2023/11/03/isinscope-the-key-to-dynamic-data-drilldowns/)
 
    This post can also be found on [Medium](https://medium.com/microsoft-power-bi/isinscope-the-key-to-dynamic-data-drilldowns-10007091e7ba)
+
+7) **Filter Functions:** Discover how to effortlessly navigate through intricate data landscapes using DAX Filter Functions in Power BI with the blog post below and follow along with the `power-bi-filter-function.pbix` file.
+
+    📰 Blog Post: [DAX Filter Functions: Navigating the Data Maze with Ease](https://ethanguyant.com/2023/12/06/dax-filter-functions-navigating-the-data-maze-with-ease/)
+
+   This post can also be found on [Medium](https://medium.com/microsoft-power-bi/dax-filter-functions-navigating-the-data-maze-with-ease-52c010b7ffb4?sk=a88bbc3e6105aff8411df1a4626042b9)
+
+8) **Aggregation Functions:** A Guide to Transforming Data into Meaningful Metrics: Explore Essential Aggregation Functions with the blog post below and follow along with the `power-bi-aggregation-functions.pbix` file.
+
+    📰 Blog Post: [Dive Into DAX: Data Aggregation Made Easy](https://ethanguyant.com/2024/01/07/dive-into-dax-data-aggregation-made-easy/)
+
+   This post can also be found on [Medium](https://medium.com/microsoft-power-bi/dive-into-dax-data-aggregation-made-easy-45c514f96c64?sk=d729833f0885a1a4e89576babed7794e)
    
 ## 🚀 Getting Started
 
