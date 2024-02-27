@@ -70,9 +70,9 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 
 9) **Table Manipulation Functions:** Discover how to Reshape, Manipulate, and Transform your data into dynamic insights with the blog post below and follow along with the `power-bi-table-manipulation-functions.pbix` file.
 
-    📰 Blog Post: [DAX Table Manipulation Functions: Transforming Your Data Analysis]([https://ethanguyant.com/2024/01/07/dive-into-dax-data-aggregation-made-easy/](https://ethanguyant.com/2024/02/04/dax-table-manipulation-functions-transforming-your-data-analysis/))
+    📰 Blog Post: [DAX Table Manipulation Functions: Transforming Your Data Analysis]([https://ethanguyant.com/2024/01/07/dive-into-dax-data-aggregation-made-easy/](https://ethanguyant.com/2024/02/04/dax-table-manipulation-functions-transforming-your-data-analysis/)
 
-   This post can also be found on [Medium]([https://medium.com/microsoft-power-bi/dive-into-dax-data-aggregation-made-easy-45c514f96c64?sk=d729833f0885a1a4e89576babed7794e](https://medium.com/microsoft-power-bi/dax-table-manipulation-functions-transforming-your-data-analysis-ba05a0474efe))
+   This post can also be found on [Medium]([https://medium.com/microsoft-power-bi/dive-into-dax-data-aggregation-made-easy-45c514f96c64?sk=d729833f0885a1a4e89576babed7794e](https://medium.com/microsoft-power-bi/dax-table-manipulation-functions-transforming-your-data-analysis-ba05a0474efe)
    
 ## 🚀 Getting Started
 
