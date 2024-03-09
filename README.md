@@ -77,6 +77,8 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 10) **Information Functions:** Navigate data complexities with ease and accuracy with the blog post below and follow along with the `power-bi-information-functions.pbix` file.
 
     📰 Blog Post: [Dive into DAX: Elevated Insights with Information Functions](https://ethanguyant.com/2024/03/09/dive-into-dax-elevated-insights-with-information-functions/)
+    
+    This post can also be found on [Medium](https://medium.com/@emguyant/dive-into-dax-elevated-insights-with-information-functions-6f9b385de0ed)
    
 ## 🚀 Getting Started
 
