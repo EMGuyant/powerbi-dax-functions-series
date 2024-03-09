@@ -73,6 +73,10 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
     📰 Blog Post: [DAX Table Manipulation Functions: Transforming Your Data Analysis](https://ethanguyant.com/2024/02/04/dax-table-manipulation-functions-transforming-your-data-analysis/)
 
    This post can also be found on [Medium](https://medium.com/microsoft-power-bi/dax-table-manipulation-functions-transforming-your-data-analysis-ba05a0474efe)
+
+10) **Information Functions:** Navigate data complexities with ease and accuracy with the blog post below and follow along with the `power-bi-information-functions.pbix` file.
+
+    📰 Blog Post: [Dive into DAX: Elevated Insights with Information Functions](https://ethanguyant.com/2024/03/09/dive-into-dax-elevated-insights-with-information-functions/)
    
 ## 🚀 Getting Started
 
