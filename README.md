@@ -4,7 +4,7 @@
 
 This dynamic repository is the perfect place to enhance your learning journey and serves as an interactive compliment to the blog posts on [EthanGuyant.com](https://ethanguyant.com). 
 
-Take a dive into the world of DAX and disover the beauty of data manipulation and analysis. With a pre-loaded Power BI Report and an Excel workbook filled with sample data, you can explore, experiment, learn, and excel using various DAX functions in Power BI. Both beginners and experienced users can find something that caters to their curiosity and learning pace.
+Take a dive into the world of DAX and discover the beauty of data manipulation and analysis. With a pre-loaded Power BI Report and an Excel workbook filled with sample data, you can explore, experiment, learn, and excel using various DAX functions in Power BI. Both beginners and experienced users can find something that caters to their curiosity and learning pace.
 
 Get hands-on with DAX Functions in Power BI, experiment and explore new DAX functions with the resources in this repository.
 
