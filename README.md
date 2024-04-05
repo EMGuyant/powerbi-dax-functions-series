@@ -79,13 +79,17 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
     📰 Blog Post: [Dive into DAX: Elevated Insights with Information Functions](https://ethanguyant.com/2024/03/09/dive-into-dax-elevated-insights-with-information-functions/)
     
     This post can also be found on [Medium](https://medium.com/@emguyant/dive-into-dax-elevated-insights-with-information-functions-6f9b385de0ed)
-   
+
+11) **Logical Functions:** Bridge the gap between data chaos and clarity with the strategic use of Power BI Logical Functions with the blog post below and follow along with the `power-bi-logical-functions.pbix` file.
+
+    📰 Blog Post: [Dive into DAX: Decoding Data with Power BI Logical Functions](https://ethanguyant.com/2024/04/05/dive-into-dax-decoding-data-with-power-bi-logical-functions/)
+    
 ## 🚀 Getting Started
 
 Ready to embark on this exciting journey? Follow these steps:
 
 1) Clone or download this repository (or .pbix) to your local machine.
-2) Open the `power-bi-function-series.pbix` file in Power BI Desktop.
+2) Open the `power-bi-function-series.pbix` (or post specific file) file in Power BI Desktop.
 3) Start exploring the data and the examples of DAX formulas.
 4) Don't hesitate to create your own measures or visualizations based on what you've learned. Experimentation leads to mastery!
 
