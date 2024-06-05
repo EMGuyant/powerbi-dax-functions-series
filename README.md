@@ -83,6 +83,14 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 11) **Logical Functions:** Bridge the gap between data chaos and clarity with the strategic use of Power BI Logical Functions with the blog post below and follow along with the `power-bi-logical-functions.pbix` file.
 
     📰 Blog Post: [Dive into DAX: Decoding Data with Power BI Logical Functions](https://ethanguyant.com/2024/04/05/dive-into-dax-decoding-data-with-power-bi-logical-functions/)
+
+    This post can also be found on [Medium](https://medium.com/microsoft-power-bi/dive-into-dax-decoding-data-with-power-bi-logical-functions-bd3d1eafc15a)
+
+12) **Relationship Functions:** Learn the art of data modeling and how to enhance your analysis with DAX Relationship Functions with the blog post below and follow along with `power-bi-relationship-functions.pbix`
+
+    📰 Blog Post: [Dive into DAX: Simplify Data Models with Relationship Functions](https://ethanguyant.com/2024/06/04/dive-into-dax-simplify-data-models-with-relationship-functions/)
+
+    This post can also be found on [Medium](https://medium.com/@emguyant/dive-into-dax-simplify-data-models-with-relationship-functions-57d41587e83a)
     
 ## 🚀 Getting Started
 
