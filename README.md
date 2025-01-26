@@ -91,6 +91,10 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
     📰 Blog Post: [Dive into DAX: Simplify Data Models with Relationship Functions](https://ethanguyant.com/2024/06/04/dive-into-dax-simplify-data-models-with-relationship-functions/)
 
     This post can also be found on [Medium](https://medium.com/@emguyant/dive-into-dax-simplify-data-models-with-relationship-functions-57d41587e83a)
+
+13) **FORMAT Function:** Learn how to create interactive visuals with custom formatting and dynamic insights with the DAX FORMAT function with the blog post below and follow along with `power-bi-format-function.pbix`
+
+    📰 Blog Post: [Dive into DAX: Unlock the Full Potential of FORMAT](https://ethanguyant.com/2025/01/27/dive-into-dax-unlock-the-full-potential-of-format/)
     
 ## 🚀 Getting Started
 
