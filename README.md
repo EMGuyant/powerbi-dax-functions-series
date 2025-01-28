@@ -96,7 +96,7 @@ I keep the Power BI Report updated with new topics and functions. Keep an eye ou
 
     📰 Blog Post: [Dive into DAX: Unlock the Full Potential of FORMAT](https://ethanguyant.com/2025/01/27/dive-into-dax-unlock-the-full-potential-of-format/)
 
-    This post can also be found on [Medium](https://medium.com/microsoft-power-bi/dive-into-dax-getting-started-with-dax-query-view-6446fca081e2)
+    This post can also be found on [Medium]((https://medium.com/@emguyant/dive-into-dax-unlock-the-full-potential-of-format-e73501c025ac)
     
 ## 🚀 Getting Started
 
